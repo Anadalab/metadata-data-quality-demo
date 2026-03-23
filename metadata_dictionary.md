@@ -9,7 +9,7 @@
 | email           | VARCHAR | Email del cliente               | Formato válido, no nulo  |
 | created_at      | DATETIME| Fecha de creación               | Registro inicial          |
 
-## Orders Table
+## Orders Table 
 | Column Name    | Type     | Description                     | Notes                     |
 |----------------|---------|---------------------------------|---------------------------|
 | order_id        | INT     | Identificador único del pedido  | Primary Key               |
