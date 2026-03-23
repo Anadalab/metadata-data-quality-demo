@@ -90,7 +90,7 @@ FROM (
 ) dup;
 
 -- =============================================
--- 4. Script de limpieza 
+-- 4. Script de limpieza ( SIMULADO)
 -- =============================================
 
 -- 4.1 Eliminar duplicados temporales 
